@@ -5,17 +5,7 @@
     <link>https://aagpazos.github.io/</link>
     <description>Recent content on Adrian A. G. Pazos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    <lastBuildDate>Sun, 07 Nov 2021 12:08:02 +0100</lastBuildDate><atom:link href="https://aagpazos.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://aagpazos.github.io/posts/hello-world/</link>
-      <pubDate>Sun, 07 Nov 2021 12:08:02 +0100</pubDate>
-      
-      <guid>https://aagpazos.github.io/posts/hello-world/</guid>
-      <description></description>
-    </item>
-    
+    <language>es-ES</language><atom:link href="https://aagpazos.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
